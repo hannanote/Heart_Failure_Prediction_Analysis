@@ -67,13 +67,15 @@ F1 Score: 97.8%
 Other Notable Performances:
 The Gradient Boosting and Decision Tree classifiers performed well in terms of precision, but they were excluded from the final model due to dataset imbalances that could have led to misleading results. The SVM showed a solid precision rate of 84%, but its performance was not as strong across all evaluation metrics.
 
+
+![image](https://github.com/user-attachments/assets/824fd774-1634-4d18-87a1-a16b0b83f197)
+
 Model Evaluation Metrics:
 
 The Random Forest achieved a high F1 score of 84.3%, balancing precision and recall effectively.
 The model also performed well in Cross-validation (90.85%) and ROC-AUC (83.24%), indicating strong generalization capabilities and good ability to distinguish between positive and negative cases.
 
 
-![image](https://github.com/user-attachments/assets/824fd774-1634-4d18-87a1-a16b0b83f197)
 
 ![image](https://github.com/user-attachments/assets/a67f95ad-b3ef-49ed-bb85-b1a239e4f26e)
 
