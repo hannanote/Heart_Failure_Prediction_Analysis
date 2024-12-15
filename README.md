@@ -11,7 +11,7 @@ This project involves predicting cardiovascular disease (CVD) using machine lear
 The dataset is obtained from the Kaggle heart disease dataset. This dataset contains 11 features that can be employed to anticipate the likelihood of heart disease: age, sex, chest pain type, resting blood pressure, cholesterol, fasting blood sugar, resting electrocardiogram results, maximum heart rate, exercise-induced angina, the slope of the peak exercise ST segment, and heart disease.
 
 ![image](https://github.com/user-attachments/assets/85195635-841c-425b-87df-529857cd3e51)
-Description of Features
+
 
 
 ### EDA
