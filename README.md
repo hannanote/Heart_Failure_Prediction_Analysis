@@ -37,3 +37,20 @@ Gradient Boosting is an ensemble learning technique that builds a strong predict
 ##### AdaBoost  
 
 AdaBoost (Adaptive Boosting) is another ensemble learning model. It focuses on improving the performance of weak learners to create a strong model. Like Gradient Boosting, AdaBoost builds weak learners sequentially. Each new learner corrects the mistakes of the previous ones. AdaBoost can work with various weak learners, and it is not limited to decision trees. As a result, the AdaBoost increases the weight of misclassified observations and decrease the weight of correctly identified observations. In the following iterations, higher emphasis is placed on misclassified observations. Ultimately, a stronger classifier is created by combining all the developed weak classifiers using a linear combination method, aiming for accurate classification performance (Ali, et al., 2021).
+
+
+![image](https://github.com/user-attachments/assets/85195635-841c-425b-87df-529857cd3e51)
+
+![image](https://github.com/user-attachments/assets/ab3e9b80-a2da-4119-9484-c50d7c460432)
+
+![image](https://github.com/user-attachments/assets/824fd774-1634-4d18-87a1-a16b0b83f197)
+
+![image](https://github.com/user-attachments/assets/a67f95ad-b3ef-49ed-bb85-b1a239e4f26e)
+
+![image](https://github.com/user-attachments/assets/20ba1b69-2500-432f-a0f2-2be877c0d982)
+
+
+#### References
+
+https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data
+
