@@ -6,7 +6,7 @@ Data analysis with categorization is essential for heart disease prediction. The
 
 This project involves predicting cardiovascular disease (CVD) using machine learning techniques. A variety of models were trained and evaluated to identify the best-performing model for predicting the likelihood of heart disease based on patient data. The goal was to develop a reliable classifier that can assist in early diagnosis and decision-making.
 
-#### Dataset and Features
+### Dataset and Features
 
 The dataset is obtained from the Kaggle heart disease dataset. This dataset contains 11 features that can be employed to anticipate the likelihood of heart disease: age, sex, chest pain type, resting blood pressure, cholesterol, fasting blood sugar, resting electrocardiogram results, maximum heart rate, exercise-induced angina, the slope of the peak exercise ST segment, and heart disease.
 
@@ -14,12 +14,12 @@ The dataset is obtained from the Kaggle heart disease dataset. This dataset cont
 Description of Features
 
 
-#### EDA
+### EDA
 
 ![image](https://github.com/user-attachments/assets/ab3e9b80-a2da-4119-9484-c50d7c460432)
 
 
-#### Machine Learning Algorithms 
+### Machine Learning Algorithms 
 
 Machine learning involves the exploration and modeling of extensive datasets. It organizes data into large sets to discover patterns and analyze their relationships. Its popularity in the medical field stems from its capability to handle extensive, intricate, and diverse data, with prediction being one of its notable applications (Pouriyeh et al., 2017). Several machine learning techniques have been utilized for predicting issues related to heart disease. Figure 1 shows some examples of the heart disease prediction data used in this research.   
 
@@ -54,7 +54,7 @@ Gradient Boosting is an ensemble learning technique that builds a strong predict
 AdaBoost (Adaptive Boosting) is another ensemble learning model. It focuses on improving the performance of weak learners to create a strong model. Like Gradient Boosting, AdaBoost builds weak learners sequentially. Each new learner corrects the mistakes of the previous ones. AdaBoost can work with various weak learners, and it is not limited to decision trees. As a result, the AdaBoost increases the weight of misclassified observations and decrease the weight of correctly identified observations. In the following iterations, higher emphasis is placed on misclassified observations. Ultimately, a stronger classifier is created by combining all the developed weak classifiers using a linear combination method, aiming for accurate classification performance (Ali, et al., 2021).
 
 
-#### Machine Learning Models 
+### Machine Learning Models 
 
 Best Model: Random Forest Classifier
 The Random Forest classifier demonstrated the best overall performance with:
@@ -92,7 +92,7 @@ These features are particularly relevant in cardiology, where ECG results and ch
 ![image](https://github.com/user-attachments/assets/20ba1b69-2500-432f-a0f2-2be877c0d982)
 
 
-#### Conclusion 
+### Conclusion 
 
 The Random Forest Classifier has proven to be the most effective model for predicting cardiovascular disease (CVD) in this dataset, surpassing other machine learning models in key evaluation metrics such as accuracy, precision, recall, specificity, and F1 score. Key features like ECG readings, chest pain types, and exercise angina were identified as highly influential in predicting heart disease, with significant clinical relevance. These results demonstrate the potential of the Random Forest model to assist in early heart disease detection. The model provides a solid foundation for further research and could be seamlessly integrated into clinical decision support systems, improving heart disease diagnosis and patient outcomes.
 
@@ -115,7 +115,7 @@ Future work should focus on gathering and integrating more comprehensive data, s
 Further hyperparameter optimization through techniques like grid search or randomized search could refine the performance of the Random Forest model. Additionally, experimenting with other machine learning models such as XGBoost or LightGBM may lead to further improvements.
 
 
-#### References
+### References
 
 https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data
 
