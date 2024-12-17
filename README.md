@@ -1,4 +1,4 @@
-### The Use of Machine Learning Algorithms for Cardiovascular Disease Analysis and Prediction 
+# The Use of Machine Learning Algorithms for Cardiovascular Disease Analysis and Prediction 
 
 Cardiovascular diseases (CVDs) are a group of disorders of the heart and blood vessels. Heart attacks are acute events mainly caused by a blockage that prevents blood from circulating to the heart. According to the World Health Organization (WHO), out of the 17 million premature deaths (under the age of 70) due to noncommunicable diseases in 2019, 38% were caused by CVDs. (World Health Organization, Cardiovascular diseases (CVDs), 2021, June 11). Also, approximately 31% of global deaths are attributed to heart failure (Shrivastava et al., 2015).  
 
