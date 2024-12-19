@@ -54,7 +54,7 @@ Gradient Boosting is an ensemble learning technique that builds a strong predict
 AdaBoost (Adaptive Boosting) is another ensemble learning model. It focuses on improving the performance of weak learners to create a strong model. Like Gradient Boosting, AdaBoost builds weak learners sequentially. Each new learner corrects the mistakes of the previous ones. AdaBoost can work with various weak learners, and it is not limited to decision trees. As a result, the AdaBoost increases the weight of misclassified observations and decrease the weight of correctly identified observations. In the following iterations, higher emphasis is placed on misclassified observations. Ultimately, a stronger classifier is created by combining all the developed weak classifiers using a linear combination method, aiming for accurate classification performance (Ali, et al., 2021).
 
 
-### Machine Learning Models 
+### Machine Learning Models Analysis
 
 Best Model: Random Forest Classifier
 The Random Forest classifier demonstrated the best overall performance with:
